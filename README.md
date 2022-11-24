@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-🌱 New to the GitHub party 🤸‍♂️ I’m an aspiring data scientist, currently enrolled in a data science BootCamp @HyperionDev 👩‍🎓. Check my portfolio, and suggest improvements 🫣, but please go easy on me 🤓 I'm still consolidating my profile. I'm a work-in-progress learning and sharpening the following skills 👇  
+🌱 New to GitHub 🤸‍♂️ I’m an aspiring data scientist, currently enrolled in a data science BootCamp @HyperionDev 👩‍🎓. Check my portfolio 🤓 I'm a work-in-progress learning and sharpening the following skills 👇  
   
 
 <br/>  
