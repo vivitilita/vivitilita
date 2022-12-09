@@ -12,8 +12,15 @@
 
 
 ### Glad to see you here!  
-🌱 New to GitHub 🤸‍♂️ I’m an aspiring data scientist, currently enrolled in a data science BootCamp @HyperionDev 👩‍🎓. Check my portfolio 🤓 I'm a work-in-progress learning and sharpening the following skills 👇  
-  
+🌱 New to GitHub 🤸‍♂️ I’m an aspiring data scientist, currently enrolled in a 👩🏼‍🎓 data science BootCamp @HyperionDev. 
+ 
+
+👩🏼‍💻 On my GitHub profile, you will find a collection of my personal projects. 📊 These projects showcase my skills in data analysis and visualization and demonstrate my ability to work with large and complex data sets.
+
+☕️ Feel free to connect with me on GitHub and let's collaborate on data science projects! 🙌🏻 I am always looking for new opportunities to learn and grow my skills, and am open to feedback and suggestions. 
+
+📝 Thanks for visiting my profile!
+I'm a work-in-progress learning and sharpening the following skills 👇🏻 
 
 <br/>  
 
