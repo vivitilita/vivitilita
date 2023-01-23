@@ -12,12 +12,12 @@
 
 
 ### Glad to see you here!  
-🌱 New to GitHub 🤸‍♂️ I’m a junior data engineer @Sparta Global. 
+🌱 I’m currently working as a Junior Data Engineer @Sparta Global. 
  
 
 👩🏼‍💻 On my GitHub profile, you will find a collection of my personal projects. 📊 These projects showcase my skills in all things data and demonstrate my ability to work with large and complex data sets.
 
-☕️ Feel free to connect with me on GitHub and let's collaborate on data related projects! 🙌🏻 I am always looking for new opportunities to learn and grow my skills, and am open to feedback and suggestions. 
+☕️ Let's connect! 🙌🏻 I am always looking for new opportunities to learn and grow my skills, and am open to feedback and suggestions. 
 
 📝 Thanks for visiting my profile!
 I'm a work-in-progress learning and sharpening the following skills 👇🏻 
@@ -26,7 +26,7 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
 
 
 ## Skills  
-<table><tr><td valign="top" width="50%">
+
 
 - Python and SQL  
   
@@ -46,7 +46,7 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
 - Source version control  
 
 
-</td><td valign="top" width="50%">
+
  
 
 
@@ -57,11 +57,15 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="100" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="100" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="100" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="100" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="100" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="100" /></a>  
+<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="100" /></a>  
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="100" /></a>  
+<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="100" /></a>  
 </div>  
 
 <br/>  
@@ -91,3 +95,6 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
 
 
 <br />
+
+------
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
