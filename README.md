@@ -12,12 +12,12 @@
 
 
 ### Glad to see you here!  
-🌱 New to GitHub 🤸‍♂️ I’m an aspiring data scientist, currently enrolled in a 👩🏼‍🎓 data science BootCamp @HyperionDev. 
+🌱 New to GitHub 🤸‍♂️ I’m a junior data engineer @Sparta Global. 
  
 
-👩🏼‍💻 On my GitHub profile, you will find a collection of my personal projects. 📊 These projects showcase my skills in data analysis and visualization and demonstrate my ability to work with large and complex data sets.
+👩🏼‍💻 On my GitHub profile, you will find a collection of my personal projects. 📊 These projects showcase my skills in all things data and demonstrate my ability to work with large and complex data sets.
 
-☕️ Feel free to connect with me on GitHub and let's collaborate on data science projects! 🙌🏻 I am always looking for new opportunities to learn and grow my skills, and am open to feedback and suggestions. 
+☕️ Feel free to connect with me on GitHub and let's collaborate on data related projects! 🙌🏻 I am always looking for new opportunities to learn and grow my skills, and am open to feedback and suggestions. 
 
 📝 Thanks for visiting my profile!
 I'm a work-in-progress learning and sharpening the following skills 👇🏻 
@@ -28,7 +28,7 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
 ## Skills  
 <table><tr><td valign="top" width="50%">
 
-- Software development within Python and SQL  
+- Python and SQL  
   
 
 - Object-oriented programming  
@@ -41,15 +41,6 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
   
 
 - Data analysis and analytics  
-  
-
-- Machine learning  
-  
-
-  
-  
-
-- Developing prediction models to support business decision-making and sophisticated software features  
   
 
 - Source version control  
@@ -100,6 +91,3 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
