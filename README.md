@@ -32,9 +32,15 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
 
 
 - SQL  and NoSQL
+
+
+- Data concepts
   
 
-- Object-oriented programming  
+- Object-oriented programming
+
+
+- Database design
   
 
 - Data transformation and manipulation  
@@ -44,6 +50,9 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
   
 
 - Data analysis and analytics  
+
+
+- Cloud and Big Data
   
 
 - Source version control  
@@ -68,6 +77,8 @@ I'm a work-in-progress learning and sharpening the following skills 👇🏻
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="80" /></a> 
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="80" /></a>  
+<a href="https://databricks.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/2378022/46096856-8db2ff80-c1c0-11e8-889c-a9862fbebe20.png" alt="Databricks" height="80" /></a>
+<a href="https://azure.microsoft.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/118511154/219976086-2866e835-8f51-4ca9-aeff-dcfc12c4d839.png" alt="Azure" height="80" /></a>
 </div>  
 
 <br/>  
